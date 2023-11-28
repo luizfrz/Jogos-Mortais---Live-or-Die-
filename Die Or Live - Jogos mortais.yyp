@@ -1,0 +1,53 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Die Or Live - Jogos mortais",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cenas","folderPath":"folders/Cenas.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Som","folderPath":"folders/Som.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.2.108",
+  },
+  "resources": [
+    {"id":{"name":"pinho","path":"sprites/pinho/pinho.yy",},},
+    {"id":{"name":"bonecoobj","path":"objects/bonecoobj/bonecoobj.yy",},},
+    {"id":{"name":"liveordie","path":"sounds/liveordie/liveordie.yy",},},
+    {"id":{"name":"boneco","path":"sprites/boneco/boneco.yy",},},
+    {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"soundtrack","path":"sounds/soundtrack/soundtrack.yy",},},
+    {"id":{"name":"chave_obj","path":"objects/chave_obj/chave_obj.yy",},},
+    {"id":{"name":"die","path":"rooms/die/die.yy",},},
+    {"id":{"name":"barras","path":"sprites/barras/barras.yy",},},
+    {"id":{"name":"espinhos","path":"sprites/espinhos/espinhos.yy",},},
+    {"id":{"name":"barra_obj","path":"objects/barra_obj/barra_obj.yy",},},
+    {"id":{"name":"cenario","path":"sprites/cenario/cenario.yy",},},
+    {"id":{"name":"amandaplayer","path":"sprites/amandaplayer/amandaplayer.yy",},},
+    {"id":{"name":"animadoplayer","path":"sprites/animadoplayer/animadoplayer.yy",},},
+    {"id":{"name":"muro_obj","path":"objects/muro_obj/muro_obj.yy",},},
+    {"id":{"name":"pinho_obj","path":"objects/pinho_obj/pinho_obj.yy",},},
+    {"id":{"name":"espinhos_obj","path":"objects/espinhos_obj/espinhos_obj.yy",},},
+    {"id":{"name":"chave","path":"sprites/chave/chave.yy",},},
+    {"id":{"name":"muro","path":"sprites/muro/muro.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"die","path":"rooms/die/die.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
