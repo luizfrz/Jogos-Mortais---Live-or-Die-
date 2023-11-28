@@ -9,7 +9,8 @@ inspired by the classic film Saw (first specifically). 'serving as training'. Am
 # objetivo do jogo
 Amanda precisa coletar 5 chaves para conseguir fugir do quarto, mas enfrentará diversos desafios, como espinhos e paredes! Caso ela consiga coletar todas as chaves, alcançará sua liberdade. No entanto, se ela encostar nos espinhos, será reiniciada e terá que começar novamente. 
 
-# objective of the game English
+# objective of the game
+(English)
 Amanda needs to collect 5 keys to escape the room, but she will face several challenges, such as spikes and walls! If she manages to collect all the keys, she will achieve her freedom. However, if she touches the spikes, she will be reset and have to start again.
 # imagem ilustrativa
 
