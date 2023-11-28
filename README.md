@@ -17,5 +17,5 @@ Amanda needs to collect 5 keys to escape the room, but she will face several cha
 
 https://github.com/luizfrz/Jogos-Mortais---Live-or-Die-/assets/126346291/1926ba15-ec9d-444e-90c5-0862a5182afc
 
-made by fan 
+made by fan/
 feito por fã
